@@ -1953,6 +1953,11 @@ img.zoom {
 	background: #fff;
 }
 
+.alto-img{
+	width: 55% !important;
+	height: 55% !important;
+}
+
 .download .titlepage {
 	padding-bottom: 60px;
 	text-align: center;
